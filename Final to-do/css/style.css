@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(#93278F, #662D91);
+    font-family: "Roboto", Arial, sans-serif;
+    max-height: 1334px;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 361px;
+}
+
+.logo img {
+    height: 100px;
+    width: 147px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    color: white;
+    font-weight: 200;
+    font-size: 100px;
+    margin-top: 150px;
+}
+
+.kicker {
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 142px;
+}
+
+.button a {
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 200;
+    color: #C04BC9;
+    border: solid 1px white;
+    background-color: white;
+    padding: 42px 117px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
